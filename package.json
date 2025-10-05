@@ -20,6 +20,7 @@
   "homepage": "https://github.com/nyx47rd/sptrck#readme",
   "dependencies": {
     "axios": "^1.12.2",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "http-proxy-middleware": "^3.0.5"
   }
 }
